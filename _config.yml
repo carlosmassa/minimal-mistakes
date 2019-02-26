@@ -13,7 +13,7 @@
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 remote_theme             : "mmistakes/minimal-mistakes@4.15.2"
-minimal_mistakes_skin    : "dirt" # "default"  "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "default"  "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -107,15 +107,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Carlos Massa"
+  avatar           : "/assets/images/Carlos Final - Gravatar_2048pxx2048px.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Global Business Executive | Engineer | Bilingual | Broad Experience in International Business Development"
+  location         : "Singapore"
+  email            : "carles.massa@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:carles.massa@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
