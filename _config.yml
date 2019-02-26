@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "dirt" # "default"  "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Carlos Massa"
+title                    : "Carlos Massa's Site"
 title_separator          : "-"
 name                     : "Carlos Massa"
 description              : "Carlos Massa Personal Webpage"
@@ -110,7 +110,7 @@ author:
   name             : "Carlos Massa"
   avatar           : "/assets/images/Carlos Final - Gravatar_2048pxx2048px.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Global Business Executive | Engineer | Bilingual | Broad Experience in International Business Development"
-  location         : "Singapore"
+  location         : 
   email            : "carles.massa@gmail.com"
   links:
     - label: "Email"
