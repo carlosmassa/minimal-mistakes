@@ -1,6 +1,9 @@
 ---
 layout: post
-title:  "Welcome to Jekyll 2!"
+title: "Welcome to Jekyll 2!"
+sidebar:
+  title: "Sample Title"
+  nav: sidebar-sample
 ---
 
 # Welcome
@@ -10,3 +13,6 @@ title:  "Welcome to Jekyll 2!"
 I hope you like it!
 
 This is [an example](http://www.google.com/ "Title") inline link.
+
+
+
