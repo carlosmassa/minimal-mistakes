@@ -9,6 +9,4 @@ title:  "Welcome to Jekyll!"
 
 I hope you like it!
 
-* {% include_relative /plots/BTCPrice.html %}
-
 This is [an example](http://www.google.com/ "Title") inline link.
