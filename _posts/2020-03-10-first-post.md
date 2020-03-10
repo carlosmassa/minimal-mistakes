@@ -10,3 +10,5 @@ title:  "Welcome to Jekyll!"
 I hope you like it!
 
 ![BTC Chart](/Plots/BTCPrice.html)
+
+{% include analytics.html %}
