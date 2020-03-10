@@ -12,7 +12,7 @@ main:
     url: /sitemap/
   #   
   #   
-  sidebar-sample:
+sidebar-sample:
   - title: "Graphs"
     children:
       - title: "BTC Price"
