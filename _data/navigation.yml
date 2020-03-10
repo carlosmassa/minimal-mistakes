@@ -21,7 +21,7 @@ main:
         url: /
       - title: "Stock to Flow"
         url: /
-      - title: "tock to Flow Multiple"
+      - title: "Stock to Flow Multiple"
         url: /
   - title: "Indicators"
     children:
