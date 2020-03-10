@@ -9,4 +9,4 @@ title:  "Welcome to Jekyll!"
 
 I hope you like it!
 
-{% include_relative /plots/BTCPrice.html %}
+* {% include_relative /plots/BTCPrice.html %}
