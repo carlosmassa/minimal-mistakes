@@ -8,3 +8,5 @@ title:  "Welcome to Jekyll!"
 **Hello world**, this is my first Jekyll blog post.
 
 I hope you like it!
+
+![BTC Chart](/Plots/BTCPrice.html)
