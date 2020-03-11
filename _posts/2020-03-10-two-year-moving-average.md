@@ -11,9 +11,9 @@ sidebar:
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://carlosmassa.github.io/plots/MA730.html" height="525" width="100%"></iframe>
 {% endraw %}
 
-Click [here](https://carlosmassa.github.io/plots/MA730.html "Full Screen BTC Price") for the full screen graph.
+Click [here](https://carlosmassa.github.io/plots/MA730.html "Full Screen MA70 Analysis") for the full screen graph.
 
-**Indicator Overview 
+# Indicator Overview 
 
 The 2-Year MA Multiplier is intended to be used as a long term investment tool.
 
@@ -25,16 +25,16 @@ Note: the x5 multiplication is of the price values of the 2yr moving average, no
 
 Buying Bitcoin when price drops below the 2yr MA (green line) has historically generated outsized returns. Selling Bitcoin when price goes above the 2yr MA x 5 (red line) has been historically effective for taking profit.
 
-**Why This Happens
+# Why This Happens
 
 As Bitcoin is adopted, it moves through market cycles. These are created by periods where market participants are over-excited causing the price to over-extend, and periods where they are overly pessimistic where the price over-contracts. Identifying and understanding these periods can be beneficial to the long term investor.
 
 This tool is a simple and effective way to highlight those periods.
 
-**Created By
+# Created By
 
 Carlos Massa
 
-**Date Created
+# Date Created
 
 March 2020
