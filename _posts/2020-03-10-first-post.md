@@ -1,5 +1,5 @@
 ---
-title: "Layout: Sidebar with Navigation List - Test 2"
+title: "Layout: Sidebar with Navigation List - Test 3"
 excerpt: "A post with a sidebar navigation list."
 author_profile: false
 sidebar:
