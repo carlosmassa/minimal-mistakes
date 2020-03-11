@@ -2,6 +2,7 @@
 title: "BTC Two Year Moving Average Analysis"
 excerpt: "Analysis of the Two Year Moving Average of the Bitcoin Price "
 author_profile: false
+classes: wide
 sidebar:
   title: "Menu"
   nav: sidebar-sample
