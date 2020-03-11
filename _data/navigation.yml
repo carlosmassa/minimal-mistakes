@@ -16,9 +16,9 @@ sidebar-sample:
   - title: "Graphs"
     children:
       - title: "BTC Price"
-        url: https://carlosmassa.github.io/plots/BTCPrice.html
+        url: https://carlosmassa.github.io/btc-price/
       - title: "Investor Tool MA730"
-        url: https://carlosmassa.github.io/plots/MA730.html
+        url: https://carlosmassa.github.io/two-year-moving-average
       - title: "Stock to Flow"
         url: /
       - title: "Stock to Flow Multiple"
