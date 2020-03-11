@@ -1,6 +1,7 @@
 ---
-layout: post
-title: "Welcome to Jekyll!"
+title: "Layout: Sidebar with Navigation List"
+excerpt: "A post with a sidebar navigation list."
+author_profile: false
 sidebar:
   title: "Sample Title"
   nav: sidebar-sample
