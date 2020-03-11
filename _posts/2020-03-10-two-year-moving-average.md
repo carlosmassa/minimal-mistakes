@@ -13,7 +13,7 @@ sidebar:
 
 Click [here](https://carlosmassa.github.io/plots/MA730.html "Full Screen BTC Price") for the full screen graph.
 
-**Indicator Overview
+**Indicator Overview 
 
 The 2-Year MA Multiplier is intended to be used as a long term investment tool.
 
