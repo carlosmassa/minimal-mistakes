@@ -29,7 +29,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>carlosmassa.github.io/2020-03-29-four-year-moving-average.md at master · carlosmassa/carlosmassa.github.io</title>
+  <title>carlosmassa.github.io/2020-03-10-two-year-moving-average.md at master · carlosmassa/carlosmassa.github.io</title>
     <meta name="description" content="My personal webpage. Contribute to carlosmassa/carlosmassa.github.io development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
@@ -39,10 +39,10 @@
     <meta property="og:image" content="https://avatars3.githubusercontent.com/u/47972273?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="carlosmassa/carlosmassa.github.io" /><meta property="og:url" content="https://github.com/carlosmassa/carlosmassa.github.io" /><meta property="og:description" content="My personal webpage. Contribute to carlosmassa/carlosmassa.github.io development by creating an account on GitHub." />
 
   <link rel="assets" href="https://github.githubassets.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NTE2NDIzMDQ4OjZhMjBmZjc5MTM2NDIyMmU4ZjNlMjIxMjI0ZTk1YTRiMzEyNTM2OGM5OWZlNzY5YzdiOTMxMGRkNDE2MDM2OTI=--ae8c887a04852341e6eb4b81aca6daf028fcb98b">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NTE2NDIzMDQ4OmNmZjhhZmI2NDdhMTZlMGE1OGYzYmY1YWVjNjYyMjg3MTI5NDNmOTc2ZjY1MGYyZjBlZTFkYTM1ZmYzOWIzMGE=--e7acd4e49c5bfd146b65241f97b1f23f956aaa06">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="C81F:2D3AB:1593A58:1EA157D:5E808796" data-pjax-transient="true" /><meta name="html-safe-nonce" content="24b7c2979651fde37d5fa89eb6256cc280d58afd" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9jYXJsb3NtYXNzYS9jYXJsb3NtYXNzYS5naXRodWIuaW8vdHJlZS9tYXN0ZXIvX3Bvc3RzIiwicmVxdWVzdF9pZCI6IkM4MUY6MkQzQUI6MTU5M0E1ODoxRUExNTdEOjVFODA4Nzk2IiwidmlzaXRvcl9pZCI6IjE3OTM1MzI4NzQ5NjA1ODA5MCIsInJlZ2lvbl9lZGdlIjoiYW1zIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="41d1fda1e3d683c61fe656ea1a62d6f76e534d9f5f9612292cda0c124a240561" data-pjax-transient="true" />
+  <meta name="request-id" content="C821:109C3:C34A3C:11C1542:5E8087B6" data-pjax-transient="true" /><meta name="html-safe-nonce" content="24b7c2979651fde37d5fa89eb6256cc280d58afd" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9jYXJsb3NtYXNzYS9jYXJsb3NtYXNzYS5naXRodWIuaW8vdHJlZS9tYXN0ZXIvX3Bvc3RzIiwicmVxdWVzdF9pZCI6IkM4MjE6MTA5QzM6QzM0QTNDOjExQzE1NDI6NUU4MDg3QjYiLCJ2aXNpdG9yX2lkIjoiMTc5MzUzMjg3NDk2MDU4MDkwIiwicmVnaW9uX2VkZ2UiOiJhbXMiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="2875b0e254fd0f2ab0c189c267b018f853d6cd15c782ca1ca73eeeeb40a36d70" data-pjax-transient="true" />
 
 
 
@@ -76,7 +76,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="MTE2OWExYTM5Y2EwNDVkNTQxOGE1ZTMxNWM0YzVkNDU1YjhkMjQyOWMyNDZiZWJhZjgyZGExM2U4ZGQwMzhkZXx7InJlbW90ZV9hZGRyZXNzIjoiOTIuOTguMjE0LjE5OSIsInJlcXVlc3RfaWQiOiJDODFGOjJEM0FCOjE1OTNBNTg6MUVBMTU3RDo1RTgwODc5NiIsInRpbWVzdGFtcCI6MTU4NTQ4MTYyNiwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+      <meta name="js-proxy-site-detection-payload" content="NzQ4NmJlMjYzMWFiYWQxNjgxMWIxNTA4N2RiZjBjYTZlZDQ5MjQzYmQ4ODBlMDJmZjY3ODU0Mzc3NmUwNjU2MXx7InJlbW90ZV9hZGRyZXNzIjoiOTIuOTguMjE0LjE5OSIsInJlcXVlc3RfaWQiOiJDODIxOjEwOUMzOkMzNEEzQzoxMUMxNTQyOjVFODA4N0I2IiwidGltZXN0YW1wIjoxNTg1NDgxNjU5LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
 
     <meta name="enabled-features" content="MARKETPLACE_FEATURED_BLOG_POSTS,MARKETPLACE_INVOICED_BILLING,MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_RECOMMENDATIONS,MARKETPLACE_PENDING_INSTALLATIONS,RELATED_ISSUES,GHE_CLOUD_TRIAL,PAGE_STALE_CHECK">
 
@@ -90,7 +90,7 @@
   <meta name="octolytics-dimension-user_id" content="47972273" /><meta name="octolytics-dimension-user_login" content="carlosmassa" /><meta name="octolytics-dimension-repository_id" content="172534113" /><meta name="octolytics-dimension-repository_nwo" content="carlosmassa/carlosmassa.github.io" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="true" /><meta name="octolytics-dimension-repository_parent_id" content="10267810" /><meta name="octolytics-dimension-repository_parent_nwo" content="mmistakes/minimal-mistakes" /><meta name="octolytics-dimension-repository_network_root_id" content="10267810" /><meta name="octolytics-dimension-repository_network_root_nwo" content="mmistakes/minimal-mistakes" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
-    <link rel="canonical" href="https://github.com/carlosmassa/carlosmassa.github.io/blob/master/_posts/2020-03-29-four-year-moving-average.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/carlosmassa/carlosmassa.github.io/blob/master/_posts/2020-03-10-two-year-moving-average.md" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -164,7 +164,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" value="YMix5DvAkIyxT2HVUsp0gASylHuYvH9n/BhZCPodsPsOmD43p/0uGOl64nxnaa0h17o/z9llWbtjpO71RRqcZg==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+          <input type="hidden" value="BRt2xqfjoIZux6pYQcoeyL9M78Djsvhyz1qQfHmaIdxrS/kVO94eEjbyKfF0acdpbEREdKJr3q5Q5ieBxp0NQQ==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -315,7 +315,7 @@
       <img class="avatar" height="20" width="20" alt="@carlosmassa" src="https://avatars3.githubusercontent.com/u/47972273?s=60&amp;v=4" />
       carlosmassa
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="cYziRh1bvaRWJFdxQ9eda9pkqHRnziuwNLm5THzmt8GUP9fwLXsLsN0VOLPcxoz157IKwtaHnRenkq4PreOUhg==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="SEEVfi7cbGKUVAF3tF3GlY4OOW/sn3oYXkrdCfKxXput8iDIHvzadh9lbrUrTNcLs9ib2V3WzL/NYcpKI7R93A==" />
       <button type="submit" class="Header-link mr-0 mr-lg-3 py-2 py-lg-0 border-top border-lg-top-0 border-white-fade-15 d-lg-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 9V7H8V5h4V3l4 3-4 3zm-2 3H6V3L2 1h8v3h1V1c0-.55-.45-1-1-1H1C.45 0 0 .45 0 1v11.38c0 .39.22.73.55.91L6 16.01V13h4c.55 0 1-.45 1-1V8h-1v4z"/></svg>
         Sign out
@@ -405,7 +405,7 @@
 " data-team-hovercards-enabled>
   <details class="js-user-status-details details-reset details-overlay details-overlay-dark">
     <summary class="btn-link btn-block link-gray no-underline js-toggle-user-status-edit toggle-user-status-edit "
-      role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:47972273,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:47972273,&quot;originating_url&quot;:&quot;https://github.com/carlosmassa/carlosmassa.github.io/blob/master/_posts/2020-03-29-four-year-moving-average.md&quot;}}" data-hydro-click-hmac="1dd0b609db33c99a87017c65a0c3029d4a2fa881bebf8c3350e960df8e92d14a">
+      role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:47972273,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:47972273,&quot;originating_url&quot;:&quot;https://github.com/carlosmassa/carlosmassa.github.io/blob/master/_posts/2020-03-10-two-year-moving-average.md&quot;}}" data-hydro-click-hmac="9a73e943e5fc3dd72e8c6a77409c5434cf5420d11c98ca9d96e4a168b533efbf">
       <div class="d-flex">
         <div class="f6 lh-condensed user-status-header
           d-inline-flex
@@ -432,7 +432,7 @@
       </div>
     </summary>
     <details-dialog class="details-dialog rounded-1 anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="TeiBGhEkg/2A87QGHGfBALEga1quKE4M2JS9+Vr7fKp2Ipyz8fPRz9gnhr8pQ+qaroLOJZJQiF2F9JcuYL0Qkg==" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="N+ONodne0ok8EEwvgAZgp6v8JPFY2Uwvty+F0MfXsfUMKZAIOQmAu2TEfpa1Iks9tF6BjmShin7qT68H/ZHdzQ==" />
         <div class="Box-header bg-gray border-bottom p-3">
           <button class="Box-btn-octicon js-toggle-user-status-edit btn-octicon float-right" type="reset" aria-label="Close dialog" data-close-dialog>
             <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
@@ -550,17 +550,17 @@
       </li>
       <li class="dropdown-divider" role="none"></li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2020-03-29T16:03:46+04:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2020-03-29T16:04:19+04:00">
             in 30 minutes
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2020-03-29T16:33:46+04:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2020-03-29T16:34:19+04:00">
             in 1 hour
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2020-03-29T19:33:46+04:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2020-03-29T19:34:19+04:00">
             in 4 hours
           </button>
         </li>
@@ -617,10 +617,10 @@
     class="dropdown-item btn-link"
     role="menuitem"
     data-feature-preview-trigger-url="/users/carlosmassa/feature_previews"
-    data-feature-preview-close-details="{&quot;event_type&quot;:&quot;feature_preview.clicks.close_modal&quot;,&quot;payload&quot;:{&quot;originating_url&quot;:&quot;https://github.com/carlosmassa/carlosmassa.github.io/blob/master/_posts/2020-03-29-four-year-moving-average.md&quot;,&quot;user_id&quot;:47972273}}"
-    data-feature-preview-close-hmac="4ae59f4780105966abca478254fbcf1049cfc9341ce7e624ffb536c9f3788c4e"
-    data-hydro-click="{&quot;event_type&quot;:&quot;feature_preview.clicks.open_modal&quot;,&quot;payload&quot;:{&quot;link_location&quot;:&quot;user_dropdown&quot;,&quot;originating_url&quot;:&quot;https://github.com/carlosmassa/carlosmassa.github.io/blob/master/_posts/2020-03-29-four-year-moving-average.md&quot;,&quot;user_id&quot;:47972273}}"
-    data-hydro-click-hmac="f776715900e8b3c52471dd14e1651e8d00993562c0eecdc14fb5b998cb4adfd6"
+    data-feature-preview-close-details="{&quot;event_type&quot;:&quot;feature_preview.clicks.close_modal&quot;,&quot;payload&quot;:{&quot;originating_url&quot;:&quot;https://github.com/carlosmassa/carlosmassa.github.io/blob/master/_posts/2020-03-10-two-year-moving-average.md&quot;,&quot;user_id&quot;:47972273}}"
+    data-feature-preview-close-hmac="95438b303f13950417d17a2b1a9f8d9acbaf42bf7861b646d70cda2b6c028674"
+    data-hydro-click="{&quot;event_type&quot;:&quot;feature_preview.clicks.open_modal&quot;,&quot;payload&quot;:{&quot;link_location&quot;:&quot;user_dropdown&quot;,&quot;originating_url&quot;:&quot;https://github.com/carlosmassa/carlosmassa.github.io/blob/master/_posts/2020-03-10-two-year-moving-average.md&quot;,&quot;user_id&quot;:47972273}}"
+    data-hydro-click-hmac="d287f5b4bbd19b109470085588781746fabffaf98ca32441e5bc4ad1936f9791"
   >
     Feature preview
   </button>
@@ -629,12 +629,12 @@
 
     <a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a>
     <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="pMp3QgB1/6gVnmrlXE4060UpoKfwrmbRa5R2LrDoVeRBeUL0MFVJvJ6vBSfDXyV1eP8CEUHn0Hb4v2FtYe12ow==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="o8MJ98ZfqMpdqsw/7IU/SA9b/MhlGqf4/rdjv548IcpGcDxB9n8e3tabo/1zlC7WMo1eftRTEV9tnHT8TzkCjQ==" />
       
       <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
         Sign out
       </button>
-      <input type="text" name="required_field_ffdb" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1585481626787" class="form-control" /><input type="hidden" name="timestamp_secret" value="abf2ada24b1842d079890b51d90fff26842564db76d4c0346a7244b6d0d9f4d6" class="form-control" />
+      <input type="text" name="required_field_8c47" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1585481659546" class="form-control" /><input type="hidden" name="timestamp_secret" value="74accc5da6dded120fba9a6f33b34a3764e0940ddc51896721d1add64b8074cc" class="form-control" />
 </form>  </details-menu>
 </details>
 
@@ -676,10 +676,10 @@
       <p class="shelf-lead">
           Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
       </p>
-      <a class="btn btn-primary shelf-cta" target="_blank" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;READ_GUIDE&quot;,&quot;repository_id&quot;:172534113,&quot;originating_url&quot;:&quot;https://github.com/carlosmassa/carlosmassa.github.io/blob/master/_posts/2020-03-29-four-year-moving-average.md&quot;,&quot;user_id&quot;:47972273}}" data-hydro-click-hmac="424733748087d9f154f46c979067efb6c1969f861f36ef5f34f1662e3cdc39be" href="https://guides.github.com/activities/hello-world/">Read the guide</a>
+      <a class="btn btn-primary shelf-cta" target="_blank" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;READ_GUIDE&quot;,&quot;repository_id&quot;:172534113,&quot;originating_url&quot;:&quot;https://github.com/carlosmassa/carlosmassa.github.io/blob/master/_posts/2020-03-10-two-year-moving-average.md&quot;,&quot;user_id&quot;:47972273}}" data-hydro-click-hmac="4a01108d9c5f3edde16e3d36b94e40f20fe7ebb04740bc882b4b6b54c452d96f" href="https://guides.github.com/activities/hello-world/">Read the guide</a>
     </div>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="shelf-dismiss js-notice-dismiss" action="/dashboard/dismiss_bootcamp" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="delete" /><input type="hidden" name="authenticity_token" value="cUoz4QlDJnhRZakKbAE9rC3/XMFN9D+BIV3QKSQEsnIx4ZTM8jzKrnQN/EfNlwR4v18T9LCVDwxsoTiL8g4n1A==" />
-      <button name="button" type="submit" class="mr-1 close-button tooltipped tooltipped-w" aria-label="Hide this notice forever" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;DISMISS_BANNER&quot;,&quot;repository_id&quot;:172534113,&quot;originating_url&quot;:&quot;https://github.com/carlosmassa/carlosmassa.github.io/blob/master/_posts/2020-03-29-four-year-moving-average.md&quot;,&quot;user_id&quot;:47972273}}" data-hydro-click-hmac="2e864c86ca200a496b490c841be43b0c2ff7dc3d82c4d54e37dca78fcc0c4dbd">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="shelf-dismiss js-notice-dismiss" action="/dashboard/dismiss_bootcamp" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="delete" /><input type="hidden" name="authenticity_token" value="3qpH8k6zGMSt2xaw2DM8Tiqv0m+nTtWi5bKqMCnUCB6eAeDftcz0EoizQ/15pQWauA+dWlov5S+oTkKS/96duA==" />
+      <button name="button" type="submit" class="mr-1 close-button tooltipped tooltipped-w" aria-label="Hide this notice forever" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;DISMISS_BANNER&quot;,&quot;repository_id&quot;:172534113,&quot;originating_url&quot;:&quot;https://github.com/carlosmassa/carlosmassa.github.io/blob/master/_posts/2020-03-10-two-year-moving-average.md&quot;,&quot;user_id&quot;:47972273}}" data-hydro-click-hmac="ae4f4f81dfc6c64d73ff97a20081ccebc3f977b6f1958ef7c067e445b3a1806e">
         <svg aria-label="Hide this notice forever" class="octicon octicon-x v-align-text-top" viewBox="0 0 12 16" version="1.1" width="12" height="16" role="img"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
 </button></form>  </div>
 </div>
@@ -723,10 +723,10 @@
 
   <li>
     
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="PVo7QaA4bE9FO6ozlZaJVAzralTcxxwx5Usn/DTQVzYYRTJP7l7DCSipP0uQNi9MPEB8LrNaSL1tKEonu5Hruw==" />      <input type="hidden" name="repository_id" value="172534113">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="WaJw/fUHlTL4fWnSaWbncJG7I+eU7uxGWs/MHA4Yfp98vXnzu2E6dJXv/KpsxkFooRA1nftzuMrSrKHHgVnCEg==" />      <input type="hidden" name="repository_id" value="172534113">
 
       <details class="details-reset details-overlay select-menu float-left">
-        <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:172534113,&quot;originating_url&quot;:&quot;https://github.com/carlosmassa/carlosmassa.github.io/blob/master/_posts/2020-03-29-four-year-moving-average.md&quot;,&quot;user_id&quot;:47972273}}" data-hydro-click-hmac="9eff38844da99d2c7e965eb563d78a8c0c2d7acef4d02ddc9e71c1ae6c240b43" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
+        <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:172534113,&quot;originating_url&quot;:&quot;https://github.com/carlosmassa/carlosmassa.github.io/blob/master/_posts/2020-03-10-two-year-moving-average.md&quot;,&quot;user_id&quot;:47972273}}" data-hydro-click-hmac="a0e88363e722190371b51c01b761e68da3b262fb181321fb3ba14fa613410c5c" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
               <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
               Watch
           </span>
@@ -797,9 +797,9 @@
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <form class="starred js-social-form" action="/carlosmassa/carlosmassa.github.io/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="r59mQNM1xbeJuRAYHMJx052PH+0RNePAx3Mrpb+98h2OCYhsho6bHybho/7PasLJ3OtDHIn3A4CDrNP3YTQG2Q==" />
+    <form class="starred js-social-form" action="/carlosmassa/carlosmassa.github.io/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="W7JISJZb0q2IqTFtwQCijkzfvYpIxtoHon2+Tk4QFhJ6JKZkw+CMBSfxgosSqBGUDbvhe9AEOkfmokYckJni1g==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar carlosmassa/carlosmassa.github.io" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:172534113,&quot;originating_url&quot;:&quot;https://github.com/carlosmassa/carlosmassa.github.io/blob/master/_posts/2020-03-29-four-year-moving-average.md&quot;,&quot;user_id&quot;:47972273}}" data-hydro-click-hmac="aa90875c6ebeca3fd474c759f955531d7cfa45f39d88251274fa75e78494c42b" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg height="16" class="octicon octicon-star v-align-text-bottom" vertical_align="text_bottom" viewBox="0 0 14 16" version="1.1" width="14" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar carlosmassa/carlosmassa.github.io" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:172534113,&quot;originating_url&quot;:&quot;https://github.com/carlosmassa/carlosmassa.github.io/blob/master/_posts/2020-03-10-two-year-moving-average.md&quot;,&quot;user_id&quot;:47972273}}" data-hydro-click-hmac="b64c903089ce67a0ca5df5f435e504e5c460652e0731da74222b4255ad22cda4" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg height="16" class="octicon octicon-star v-align-text-bottom" vertical_align="text_bottom" viewBox="0 0 14 16" version="1.1" width="14" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
 
         Unstar
 </button>        <a class="social-count js-social-count" href="/carlosmassa/carlosmassa.github.io/stargazers"
@@ -807,9 +807,9 @@
            0
         </a>
 </form>
-    <form class="unstarred js-social-form" action="/carlosmassa/carlosmassa.github.io/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="wGm68EpHDvJ/YNQDOnwT5mdQPGMy19c6dIq2itPJISF0Hth/p6dm89Vcf+/S2GyPB22v52ZznZz/gggO1jMtUw==" />
+    <form class="unstarred js-social-form" action="/carlosmassa/carlosmassa.github.io/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="C4DF1GnOSxvijTxvJgjPLyG4S8oGYtOLR6AafMvZehm/96dbhC4jGkixl4POrLBGQYXYTlLGmS3MqKT4ziN2aw==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star carlosmassa/carlosmassa.github.io" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:172534113,&quot;originating_url&quot;:&quot;https://github.com/carlosmassa/carlosmassa.github.io/blob/master/_posts/2020-03-29-four-year-moving-average.md&quot;,&quot;user_id&quot;:47972273}}" data-hydro-click-hmac="c73e091bc1056b191b2ad0c405638f9dfce49eae48e509b73f0aab6e5c45edcd" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg height="16" class="octicon octicon-star v-align-text-bottom" vertical_align="text_bottom" viewBox="0 0 14 16" version="1.1" width="14" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star carlosmassa/carlosmassa.github.io" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:172534113,&quot;originating_url&quot;:&quot;https://github.com/carlosmassa/carlosmassa.github.io/blob/master/_posts/2020-03-10-two-year-moving-average.md&quot;,&quot;user_id&quot;:47972273}}" data-hydro-click-hmac="afe3b8c0d2143f3d0070cff7140e21da3bf0510e9ce12e38ad6f5d085b79258d" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg height="16" class="octicon octicon-star v-align-text-bottom" vertical_align="text_bottom" viewBox="0 0 14 16" version="1.1" width="14" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
 
         Star
 </button>        <a class="social-count js-social-count" href="/carlosmassa/carlosmassa.github.io/stargazers"
@@ -947,9 +947,9 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/carlosmassa/carlosmassa.github.io/blob/ed52d3e72df05ed93dcabaa5f5b3935704f29b3b/_posts/2020-03-29-four-year-moving-average.md">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/carlosmassa/carlosmassa.github.io/blob/4a33ea0edc8f66a1eaa4ff545113d40a4cf65fc9/_posts/2020-03-10-two-year-moving-average.md">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v22:039483321ad710cddb6cab4fea6a261e -->
+    <!-- blob contrib key: blob_contributors:v22:45aa081a30c4b9718f79c5f8a821066f -->
     
 
     <div class="d-flex flex-items-start flex-shrink-0 flex-column flex-md-row pb-3">
@@ -964,7 +964,7 @@
     <span class="dropdown-caret"></span>
   </summary>
 
-  <details-menu class="SelectMenu SelectMenu--hasFilter" src="/carlosmassa/carlosmassa.github.io/refs/master/_posts/2020-03-29-four-year-moving-average.md?source_action=show&amp;source_controller=blob" preload>
+  <details-menu class="SelectMenu SelectMenu--hasFilter" src="/carlosmassa/carlosmassa.github.io/refs/master/_posts/2020-03-10-two-year-moving-average.md?source_action=show&amp;source_controller=blob" preload>
     <div class="SelectMenu-modal">
       <include-fragment class="SelectMenu-loading" aria-label="Menu is loading">
         <svg class="octicon octicon-octoface anim-pulse" height="32" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z"/></svg>
@@ -980,13 +980,13 @@
                 data-hotkey="t">
             Find file
           </a>
-          <clipboard-copy value="_posts/2020-03-29-four-year-moving-average.md" class="btn btn-sm BtnGroup-item">
+          <clipboard-copy value="_posts/2020-03-10-two-year-moving-average.md" class="btn btn-sm BtnGroup-item">
             Copy path
           </clipboard-copy>
         </div>
       </span>
       <h2 id="blob-path" class="breadcrumb flex-auto min-width-0 text-normal flex-md-self-center ml-md-2 mr-md-3 my-2 my-md-0">
-          <span class="js-repo-root text-bold"><span class="js-path-segment"><a data-pjax="true" href="/carlosmassa/carlosmassa.github.io"><span>carlosmassa.github.io</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/carlosmassa/carlosmassa.github.io/tree/master/_posts"><span>_posts</span></a></span><span class="separator">/</span><strong class="final-path">2020-03-29-four-year-moving-average.md</strong>
+          <span class="js-repo-root text-bold"><span class="js-path-segment"><a data-pjax="true" href="/carlosmassa/carlosmassa.github.io"><span>carlosmassa.github.io</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/carlosmassa/carlosmassa.github.io/tree/master/_posts"><span>_posts</span></a></span><span class="separator">/</span><strong class="final-path">2020-03-10-two-year-moving-average.md</strong>
       </h2>
 
       <div class="BtnGroup flex-shrink-0 d-none d-md-inline-block">
@@ -996,7 +996,7 @@
               data-hotkey="t">
           Find file
         </a>
-        <clipboard-copy value="_posts/2020-03-29-four-year-moving-average.md" class="btn btn-sm BtnGroup-item">
+        <clipboard-copy value="_posts/2020-03-10-two-year-moving-average.md" class="btn btn-sm BtnGroup-item">
           Copy path
         </clipboard-copy>
       </div>
@@ -1004,7 +1004,7 @@
 
 
 
-    <include-fragment src="/carlosmassa/carlosmassa.github.io/contributors/master/_posts/2020-03-29-four-year-moving-average.md" class="Box Box--condensed commit-loader">
+    <include-fragment src="/carlosmassa/carlosmassa.github.io/contributors/master/_posts/2020-03-10-two-year-moving-average.md" class="Box Box--condensed commit-loader">
       <div class="Box-body bg-blue-light f6">
         Fetching contributors&hellip;
       </div>
@@ -1025,36 +1025,36 @@
 <div class="Box-header py-2 d-flex flex-column flex-shrink-0 flex-md-row flex-md-items-center">
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
 
-      15 lines (13 sloc)
+      41 lines (26 sloc)
       <span class="file-info-divider"></span>
-    509 Bytes
+    1.62 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
 
     <div class="BtnGroup">
-      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/carlosmassa/carlosmassa.github.io/raw/master/_posts/2020-03-29-four-year-moving-average.md">Raw</a>
-        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/carlosmassa/carlosmassa.github.io/blame/master/_posts/2020-03-29-four-year-moving-average.md">Blame</a>
-      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/carlosmassa/carlosmassa.github.io/commits/master/_posts/2020-03-29-four-year-moving-average.md">History</a>
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/carlosmassa/carlosmassa.github.io/raw/master/_posts/2020-03-10-two-year-moving-average.md">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/carlosmassa/carlosmassa.github.io/blame/master/_posts/2020-03-10-two-year-moving-average.md">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/carlosmassa/carlosmassa.github.io/commits/master/_posts/2020-03-10-two-year-moving-average.md">History</a>
     </div>
 
 
     <div>
           <a class="btn-octicon tooltipped tooltipped-nw js-remove-unless-platform"
              data-platforms="windows,mac"
-             href="x-github-client://openRepo/https://github.com/carlosmassa/carlosmassa.github.io?branch=master&amp;filepath=_posts%2F2020-03-29-four-year-moving-average.md"
+             href="x-github-client://openRepo/https://github.com/carlosmassa/carlosmassa.github.io?branch=master&amp;filepath=_posts%2F2020-03-10-two-year-moving-average.md"
              aria-label="Open this file in GitHub Desktop"
              data-ga-click="Repository, open with desktop">
               <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/carlosmassa/carlosmassa.github.io/edit/master/_posts/2020-03-29-four-year-moving-average.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="3CIN18qKUCsi2Cmm4pbtXFLnZM4C6+f7nSV8kqyeh9EZN4zRIxlzd1s6sDdP7odGDdTa0P/K9FWC83JSqUEAIg==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/carlosmassa/carlosmassa.github.io/edit/master/_posts/2020-03-10-two-year-moving-average.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="utEkSYgE+HJ0G37WZwld7ReWBvgsf3+1s6binyJ7Vscf2lJFLsarGX87yfSnFBA8oZr6eDz3uDOLNFqAacJnXA==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Edit this file" data-hotkey="e" data-disable-with>
               <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 011.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/carlosmassa/carlosmassa.github.io/delete/master/_posts/2020-03-29-four-year-moving-average.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="1Kg9OeV+v3crLom+zcR1fVKcDvCd+njqEcrl5hNlHXW7VThz417z0wE4W6qZd+6nHpVsOaHOkflpnkDYXgRusA==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/carlosmassa/carlosmassa.github.io/delete/master/_posts/2020-03-10-two-year-moving-average.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="aJfsnHeB38YhBzu5fxI5FOHCXTUbRwTLf8t4ih4w6F96UsGJzSWymUByye1j3hBwiuFS/lkzUXxMI+vXJaA1Mg==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Delete this file" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -1079,8 +1079,8 @@
   </thead>
   <tbody>
   <tr>
-  <td><div>BTC Four Year Moving Average</div></td>
-  <td><div>Plot of the Four Year Moving Average of the Bitcoin Price </div></td>
+  <td><div>BTC Two Year Moving Average Analysis</div></td>
+  <td><div>Analysis of the Two Year Moving Average of the Bitcoin Price </div></td>
   <td><div>false</div></td>
   <td><div>wide</div></td>
   <td><div><table>
@@ -1103,9 +1103,22 @@
 </table>
 
 <p>{% raw %}</p>
-&lt;iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="<a href="https://carlosmassa.github.io/plots/MA1458.html" rel="nofollow">https://carlosmassa.github.io/plots/MA1458.html</a>" height="525" width="100%"&gt;&lt;/iframe&gt;
+&lt;iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="<a href="https://carlosmassa.github.io/plots/MA730.html" rel="nofollow">https://carlosmassa.github.io/plots/MA730.html</a>" height="525" width="100%"&gt;&lt;/iframe&gt;
 {% endraw %}
-<p>Click <a href="https://carlosmassa.github.io/plots/MA1458.html" title="Full Screen MA1458 Analysis" rel="nofollow">here</a> for the full screen graph.</p>
+<p>Click <a href="https://carlosmassa.github.io/plots/MA730.html" title="Full Screen MA730 Analysis" rel="nofollow">here</a> for the full screen graph.</p>
+<h1><a id="user-content-indicator-overview" class="anchor" aria-hidden="true" href="#indicator-overview"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Indicator Overview</h1>
+<p>The 2-Year MA Multiplier is intended to be used as a long term investment tool.</p>
+<p>It highlights periods where buying or selling Bitcoin during those times would have produced outsized returns.</p>
+<p>To do this, it uses a moving average (MA) line, the 2yr MA, and also a multiplication of that moving average line, 2yr MA x5.</p>
+<p>Note: the x5 multiplication is of the price values of the 2yr moving average, not of its time period.</p>
+<p>Buying Bitcoin when price drops below the 2yr MA (green line) has historically generated outsized returns. Selling Bitcoin when price goes above the 2yr MA x 5 (red line) has been historically effective for taking profit.</p>
+<h1><a id="user-content-why-this-happens" class="anchor" aria-hidden="true" href="#why-this-happens"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Why This Happens</h1>
+<p>As Bitcoin is adopted, it moves through market cycles. These are created by periods where market participants are over-excited causing the price to over-extend, and periods where they are overly pessimistic where the price over-contracts. Identifying and understanding these periods can be beneficial to the long term investor.</p>
+<p>This tool is a simple and effective way to highlight those periods.</p>
+<h1><a id="user-content-created-by" class="anchor" aria-hidden="true" href="#created-by"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Created By</h1>
+<p>Carlos Massa</p>
+<h1><a id="user-content-date-created" class="anchor" aria-hidden="true" href="#date-created"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Date Created</h1>
+<p>March 2020</p>
 </article>
   </div>
 
@@ -1126,10 +1139,10 @@
      hidden
      data-tagsearch-url="/carlosmassa/carlosmassa.github.io/find-symbols"
      data-tagsearch-ref="master"
-     data-tagsearch-path="_posts/2020-03-29-four-year-moving-average.md"
+     data-tagsearch-path="_posts/2020-03-10-two-year-moving-average.md"
      data-tagsearch-lang="Markdown"
-     data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_symbol&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_symbol&quot;,&quot;repository_id&quot;:172534113,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;Markdown&quot;,&quot;originating_url&quot;:&quot;https://github.com/carlosmassa/carlosmassa.github.io/blob/master/_posts/2020-03-29-four-year-moving-average.md&quot;,&quot;user_id&quot;:47972273}}"
-     data-hydro-click-hmac="97f9abd13d2f82925fc80e1909c10924394b2aed7b7ace98a69e80a5f09514c2">
+     data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_symbol&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_symbol&quot;,&quot;repository_id&quot;:172534113,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;Markdown&quot;,&quot;originating_url&quot;:&quot;https://github.com/carlosmassa/carlosmassa.github.io/blob/master/_posts/2020-03-10-two-year-moving-average.md&quot;,&quot;user_id&quot;:47972273}}"
+     data-hydro-click-hmac="e45c4688f3db8047b4ea32042f60b47b4874e742e0b56b7da2420b6b56821398">
   <div class="Popover-message Popover-message--large Popover-message--top-left TagsearchPopover mt-1 mb-4 mx-auto Box box-shadow-large">
     <div class="TagsearchPopover-content js-tagsearch-popover-content overflow-auto" style="will-change:transform;">
     </div>
