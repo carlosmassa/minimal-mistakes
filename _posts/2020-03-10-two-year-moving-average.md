@@ -12,7 +12,7 @@ sidebar:
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://carlosmassa.github.io/plots/MA730.html" height="525" width="100%"></iframe>
 {% endraw %}
 
-Click [here](https://carlosmassa.github.io/plots/MA730.html "Full Screen MA70 Analysis") for the full screen graph.
+Click [here](https://carlosmassa.github.io/plots/MA730.html "Full Screen MA730 Analysis") for the full screen graph.
 
 # Indicator Overview 
 
