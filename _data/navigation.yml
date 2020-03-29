@@ -19,6 +19,8 @@ sidebar-sample:
         url: https://carlosmassa.github.io/btc-price/
       - title: "Investor Tool MA730"
         url: https://carlosmassa.github.io/two-year-moving-average
+      - title: "Four Year Simple Moving Average"
+        url: https://carlosmassa.github.io/four-year-moving-average
       - title: "Stock to Flow"
         url: /
       - title: "Stock to Flow Multiple"
