@@ -21,6 +21,8 @@ sidebar-sample:
         url: https://carlosmassa.github.io/two-year-moving-average
       - title: "Four Year Simple Moving Average"
         url: https://carlosmassa.github.io/four-year-moving-average
+      - title: "Fear And Greed Index"
+        url: https://carlosmassa.github.io/fear-and-greed
       - title: "Stock to Flow"
         url: /
       - title: "Stock to Flow Multiple"
