@@ -9,7 +9,7 @@ sidebar:
 ---
 
 {% raw %}
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://carlosmassa.github.io/plots/FearAndGreed.html" height="525" width="100%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://carlosmassa.github.io/plots/FearAndGreed.html" height="100%" width="100%"></iframe>
 {% endraw %}
 
 Click [here](https://carlosmassa.github.io/plots/FearAndGreed.html "Full Screen Fear And Greed Index") for the full screen graph.
